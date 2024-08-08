@@ -18,7 +18,7 @@ Welcome to the **Image Analyzer**! 🎉 This is a simple and fun Streamlit app t
    ```python
    pip install -r requirements.txt
    ```
- 3.Run the app:
+3.Run the app:
    ```python
       streamlit run app.py
    ```
