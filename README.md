@@ -11,7 +11,7 @@ Welcome to the **Image Analyzer**! 🎉 This is a simple and fun Streamlit app t
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/AASoftIR/image-analyzer-app.git
+   git clone https://github.com/AASoftIR/streamlit-photo-analyzer-python.git
    cd image-analyzer-app
    ```
 2. Install the required packages:
